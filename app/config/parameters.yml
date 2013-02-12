@@ -1,0 +1,14 @@
+parameters:
+  database_driver: pdo_mysql
+  database_host: 127.0.0.1
+  database_port: null
+  database_name: newmastergold
+  database_user: root
+  database_password: null
+  mailer_transport: smtp
+  mailer_host: 127.0.0.1
+  mailer_user: null
+  mailer_password: null
+  locale: en
+  secret: 537a5af483c7a5f62ed2d1da6ae4b9e85e513cf8
+  database_path: null
